@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Fondo octagonal vial amarillo -->
+  <polygon points="19,4 45,4 60,19 60,45 45,60 19,60 4,45 4,19" fill="#F5B800"/>
+  <!-- Borde interior asfalto -->
+  <polygon points="20,7 44,7 57,20 57,44 44,57 20,57 7,44 7,20" fill="none" stroke="#111317" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Letra A geométrica de Ayala -->
+  <path d="M32 15 L43 45 L36.5 45 L34 38 L24 38 L21.5 45 L15 45 Z M29 24.5 L25.8 33 L32.2 33 Z" fill="#111317"/>
+</svg>
+
